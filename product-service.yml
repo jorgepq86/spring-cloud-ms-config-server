@@ -1,2 +1,6 @@
 test:
   name: testChanged
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
